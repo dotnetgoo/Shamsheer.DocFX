@@ -7,3 +7,5 @@ Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to wri
 1. Add images to the *images* folder if the file is referencing an image.
 
 2. [Messenger](messenger/mainwindow.md)
+
+3. [Settings](messenger/settingsWindows.md)
